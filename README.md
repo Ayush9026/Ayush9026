@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9026&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9026" /> </p>
 
-- 🔭 I’m currently Contributing in ** @Kubernetes and @Layer5 **
+- 🔭 I’m currently Contributing in ** Kubernetes and Layer5 **
 
 - 🌱 I’m currently learning **Kubernetes,Terraform**
 
-- 💬 Ask me about **Frontend,DevOps**
+- 💬 Ask me about **Web dev and DevOps**
 
 - 📫 How to reach me **guptaayush9040@gmail.com**
 
