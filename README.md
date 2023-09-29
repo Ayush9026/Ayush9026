@@ -1,4 +1,4 @@
-[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)]
+[![MasterHead]]
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate about Opensource and DevOps</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">
