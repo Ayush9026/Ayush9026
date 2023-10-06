@@ -1,4 +1,4 @@
-[![MasterHead]]
+
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate about Opensource and DevOps</h3>
 <img align="right" alt="Coding" width="400" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19">
