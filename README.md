@@ -8,12 +8,13 @@
 
 - 🔭 I’m currently Contributing in ** Kubernetes and Layer5 **
 
-- 🌱 I’m currently learning **Kubernetes,Terraform**
+- 🌱 I’m currently learning **Kubernetes,Golang**
 
 - 💬 Ask me about **Web dev and DevOps**
 
 - 📫 How to reach me **guptaayush9040@gmail.com**
 
+- ✍️ Check my Recent Blog post https://dev.to/ayushgupta
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush gupta" height="30" width="40" /></a>
