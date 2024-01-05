@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9026&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9026" /> </p>
 
-- 🔭 I’m currently Contributing in **Kubernetes and Layer5**
+- 🔭 I’m currently Contributing in **@Kubernetes and @Layer5** also participated in Hacktoberfest2023.
 
 - 🌱 I’m currently learning **Golang**
 
