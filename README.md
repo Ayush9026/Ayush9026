@@ -6,15 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9026&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9026" /> </p>
 
-- 🔭 I’m currently Contributing in ** Kubernetes and Layer5 **
+- 🔭 I’m currently Contributing in **Kubernetes and Layer**
 
-- 🌱 I’m currently learning **Kubernetes,Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Web dev and DevOps**
 
 - 📫 How to reach me **guptaayush9040@gmail.com**
 
 - ✍️ Check my Recent Blog post https://dev.to/ayushgupta
+
+- **Certifications** - Google IT support Fundamental, DevOps on AWS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush gupta" height="30" width="40" /></a>
