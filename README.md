@@ -37,7 +37,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush9026&show_icons=true&locale=en&layout=compact" alt="ayush9026" style="background-color: purple;" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush9026&show_icons=true&locale=en" alt="ayush9026" style="background-color: purple;" /></p>
-
