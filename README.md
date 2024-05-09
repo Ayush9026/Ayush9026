@@ -16,6 +16,9 @@
 
 - ✍️ Check my Recent Blog post https://dev.to/ayushgupta
 
+- [![✍️ Check my Recent Blog post](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0sc5e4g8xf2tl849s99p.png)](https://dev.to/ayushgupta/simplifying-markdown-a-beginners-guide-to-easy-writing-22d3)
+
+
 - **Certifications** - Google IT support Fundamental, DevOps on AWS
 <h3 align="left">Connect with me:</h3>
 <p align="left">
