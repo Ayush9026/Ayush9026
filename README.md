@@ -9,7 +9,7 @@
 ### :man_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
 - :telescope: Currently strengthening my skills in DevOps.
-- :basecampy: OS Contributor [@CNCF](https://github.com/cncf), [@Kubernetes](https://github.com/kubernetes/kubernetes)
+- :basecampy: Contributor [@CNCF](https://github.com/cncf), [@Kubernetes](https://github.com/kubernetes/kubernetes)
 - :mailbox: Want to contact 📱 me [![Linkedin Badge ](https://img.shields.io/badge/-Ayush_Gupta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-gupta-523b45199/)  [![Email Badge](https://img.shields.io/badge/-guptaayush9040@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](guptaayush9040@gmail.com)
 
 - **Certifications** - Google IT support Fundamental, DevOps on AWS
